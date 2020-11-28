@@ -1,0 +1,7 @@
+1000;power
+1002;power
+1004;power
+1005;power
+1006;power
+1008;power
+1010;power

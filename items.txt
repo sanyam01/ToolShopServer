@@ -1,0 +1,11 @@
+1000;Knock Bits;88;12.67;Electrical;8012
+1001;Widgets;10;35.50;Non-Electrical;8004
+1002;Grommets;20;23.45;Electrical;8001
+1003;Wedges;15;10.15;Non-Electrical;8011
+1004;Wing Bats;11;11.25;Electrical;8003
+1005;Twinkies;75;15.75;Electrical;8012
+1006;Wiggles;30;12.34;Electrical;8010
+1007;Bing Bobs;25;2.39;Non-Electrical;8005
+1008;Wog Wits;300;19.99;Electrical;8004
+1009;Barney Bits;21;23.59;Non-Electrical;8006
+1010;Willie Widgits;89;12.99;Electrical;8003

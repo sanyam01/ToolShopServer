@@ -1,0 +1,14 @@
+8001;Grommet Builders;International;788 30th St., SE, Calgary;Oracle;123-756-4578
+8002;Pong Works;Local;749 Dufferin Blvd., SE, Calgary;Oracle;452-478-1245
+8003;Wiley Inc.;International;26 40th St., SE, Calgary;Tesla;698-654-6547
+8004;Winork Manufacturing Inc.;International;156 51st Ave., SE, Calgary;Oracle;123-456-1478
+8005;Grab Bag Inc.;Local;138 42nd Ave., NE, Calgary;Tesla;123-456-7896
+8006;Paddy's Manufacturing;International;311 McCall Way, NE, Calgary;Tesla;123-456-7852
+8007;Smickles Industries;International;966 Smed Lane, SE, Calgary;Tesla;124-589-6325
+8008;Thangs Inc.;International;879 37th Ave., NE, Calgary;Tesla;456-789-2546
+8009;Flip Works Inc.;International;472 Ogden Dale Rd., SE, Calgary;Tesla;796-254-1248
+8010;Irkle Industries;International;754 Sunridge Way, NE, Calgary;Oracle;369-547-3149
+8011;Biff Builders;International;690 19th St., NE, Calgary;Tesla;148-962-4579
+8012;Twinkles Inc.;Local;318 29th St.,NE, Calgary;UofC;145-124-1247
+8013;Piddles Industries;International;238 112th Ave., NE, Calgary;UofC;125-124-1256
+8014;Tic Tac Manufacturing;Local;598 Palmer Rd., NE, Calgary;UofC;127-825-4547

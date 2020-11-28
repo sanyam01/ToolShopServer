@@ -1,0 +1,4 @@
+Order ID: 74704
+Order Date: 2020/11/27
+Item ID: 1001  Amount: 40  Supplier ID: 8004
+Item ID: 1003  Amount: 35  Supplier ID: 8011

@@ -1,0 +1,20 @@
+1;Fred;Flintstone;34 Flintrock Way;T3R 5B6;403-295-9076;C
+2;Bugs;Bunny;22 Rabbit Hole Park;W2A 5K8;403-288-7213;R
+3;Samuel;Ludlow III;2345 The Rich Man Way;X2R 3M6;403-324-9812;C
+4;Bill;Partley;11 Partway Road;V7Z 4G7;403-232-9876;R
+5;Dr.;Evil;Some Where in the Caribean;N4W 8H3;999-999-9999;C
+6;Perky;Volunteer;343 Volly Road;B4U 8V3;403-345-9876;R
+7;BobBob;Never;22 NeverReally Lane;C2K 2N0;403-674-7865;R
+8;Homer;Simpson;345 Doooah Drive;D0A 0H0;403-855-4287;R
+9;Wilbur;Wimp;44 WumpWump Street;W1M 3P3;403-555-8888;R
+10;Really;Depressed;33 Has No Life Drive;B2C 4S7;403-456-7890;R
+11;Sam;Packitaway;345 Stash Road;Y2X 1L6;403-546-9867;C
+12;Nurse;Betty;32 Way Out There;M5W 4E6;403-456-7766;R
+13;Donald;Duck;76 Duck Pond Lawn;Z5X 8F4;403-926-9165;C
+14;Joe;Blow;450 Blowout Road;Y8V 7N2;403-743-9854;R
+15;Pebbles;Flintstone;34 Flintrock Way;T3R 5B6;403-295-9076;C
+16;Barney;Rubble;876 Rimrock Place;Y4H 4M7;403-765-2763;C
+17;Huey;Duck;76 Duck Pond Lawn;Z5X 8F4;403-926-9165;R
+18;Wylie;Coyote;9 Desert Way;T9M 4G7;403-453-9876;C
+19;Foghorn;Leghorn;34 Chicken Coop Loop;B7Y 8N4;403-765-0834;C
+20;Sylvester;Cat;88 Kitchen Rug Way;Y4F 9Z5;403-876-3487;R
